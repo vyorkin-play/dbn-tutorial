@@ -8,6 +8,7 @@
   "parser": "babel-eslint",
   "plugins": [
     "flowtype",
+    "ava",
     "fp",
     "prefer-object-spread",
     "import",
