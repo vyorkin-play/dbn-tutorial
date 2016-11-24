@@ -1,0 +1,12 @@
+{
+  "name": "dbn-tutorial",
+  "version": "0.1.0",
+  "description": "building a simple DBN interpreter",
+  "main": "dist/bundle.js",
+  "repository": {
+    "url": "git@github.com:vyorkin-play/dbn-tutorial.git",
+    "type": "git"
+  },
+  "author": "Vasiliy Yorkin <vasiliy.yorkin@gmail.com> (https://github.com/vyorkin)",
+  "license": "WTFPL"
+}
